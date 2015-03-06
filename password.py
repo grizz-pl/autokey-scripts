@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 #autokey script - generate password  by grizz - Witek Firlej http://grizz.pl
 # ver. 2015.02.16.1
 # Copyright (C) 2015 Witold Firlej
